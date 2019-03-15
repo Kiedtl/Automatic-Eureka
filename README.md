@@ -10,4 +10,4 @@ You can call the `automaticEurekaInit` function on documents load like this:
   <!-- blah blah blah -->
 </body>
 ```
-See [this page](http://bit.ly/OnKeysAndCrypto) for an example of Automatic Eureka in action.
+See [this page](http://kiedtl.surge.sh/projects/autoeureka) for an example of Automatic Eureka in action.
